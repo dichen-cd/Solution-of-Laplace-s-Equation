@@ -1,3 +1,5 @@
+%Use this script only after coaxial_cable_V_AIM.m or coaxial_cable_V_SOR.m
+
 [EX,EY]=gradient(u);            %  E=-\nabla V    
 EX=-EX;
 EY=-EY;

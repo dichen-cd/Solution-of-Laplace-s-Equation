@@ -1,3 +1,4 @@
+%A toy demo with a 21*21 meshgrid
 u=zeros(21, 21);
 h=0.1;
 u(1,:)=100;     %boundary voltage
